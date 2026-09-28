@@ -1,8 +1,13 @@
 # GHG Emissions Inventory (Excel Project)
-  An Excel-based greenhouse gas (GHG) emissions inventory developed to practice      corporate carbon accounting using the GHG Protocol framework.
+An Excel-based greenhouse gas (GHG) emissions inventory developed to practice corporate carbon accounting using the GHG Protocol framework.
   
-  The project calculates Scope 1, Scope 2, and selected Scope 3 emissions for a fictional company, GreenTech, using activity data, publicly available emissions factors, and documented assumptions.
-  
+The project calculates Scope 1, Scope 2, and selected Scope 3 emissions for a fictional company, GreenTech, using activity data, publicly available emissions factors, and documented assumptions.
+
+# Project Preview 
+
+* GHG Emissions Inventory calculations - GHG Emissions summary-1.png , GHG Emissions summary-2.png
+* GHG Dashboard - GHG Dashboard.png
+
 # Emissions Covered
 Scope 1
 * Natural gas used at a company-owned facility
