@@ -1,12 +1,13 @@
-# GHG Emissions Inventory (Excel Project)
+# GHG Emissions Inventory and Power BI Visualization (Excel and Power BI Project)
 An Excel-based greenhouse gas (GHG) emissions inventory developed to practice corporate carbon accounting using the GHG Protocol framework.
   
 The project calculates Scope 1, Scope 2, and selected Scope 3 emissions for a fictional company, GreenTech, using activity data, publicly available emissions factors, and documented assumptions.
 
 # Project Preview 
 
-* GHG Emissions Inventory calculations - GHG Emissions summary-1.png , GHG Emissions summary-2.png
+* GHG Emissions Inventory calculations - GHG Inventory summary-1.png , GHG Inventory summary-2.png
 * GHG Dashboard - GHG Dashboard.png
+* GHG Emissions Inventory Visualization - GHG Inventory_Vis-1.png , GHG Inventory_Vis-2.png , GHG Reduction Scenario_Vis-1.png
 
 # Emissions Covered
 Scope 1
@@ -30,6 +31,7 @@ Selected categories were included to demonstrate value-chain emissions accountin
 # Tools & Data Sources
 
 * Microsoft Excel
+* Power BI
 * GHG Protocol concepts and Scope classification
 * U.S. Environmental Protection Agency (EPA) emissions factors and resources
 * EPA eGRID electricity emissions data
@@ -45,7 +47,13 @@ The Excel workbook includes:
 * Scope 2 - Indirect GHG emissions associated with purchased electricity.
 * Scope 3 - Selected indirect value-chain emissions from activities. 
 * GHG Inventory Summary – summary of activity data, emissions calculations and a 20% emissions reduction scenario
-* Dashboard – Visualization of summarized emissions by Scope and emissions source and reduction scenario 
+* Dashboard – Visualization of summarized emissions by Scope and emissions source and reduction scenario
+
+# Power BI Dashboard
+
+The Power BI dashboard includes:
+* Page 1 - Visualizes total emissions, emissions by scope and source, and compares location-based and market-based accounting methods
+* Page 2 - Presents the modeled 20% reduction scenario, including baseline emissions, remaining emissions, and avoided emissions
 
 # Key Skills Demonstrated
 
@@ -57,9 +65,9 @@ The Excel workbook includes:
 * Unit conversion
 * Data validation and documentation
 * Sustainability reporting fundamentals
+* Data Visualization
 
 # Notes & Limitations
 
 This is a portfolio learning project using a fictional company and selected emissions categories. The project is intended to demonstrate the process of organizing and calculating GHG emissions rather than represent an actual corporate GHG inventory.
-
 Emissions factors may vary by source, geographic region, reporting year, methodology, and data availability. Sources and assumptions are documented within the workbook.
