@@ -15,7 +15,7 @@ Scope 1
 * Gasoline used in company-owned vehicles
 * Diesel used in company-owned vehicles
 * Refrigerant leakage
-* Direct emissions of CO₂, CH₄, and N₂O from applicable sources
+* Direct emissions of CO2, CH4, and N2O from applicable sources
 
 Scope 2
 * Purchased electricity using a location-based approach
