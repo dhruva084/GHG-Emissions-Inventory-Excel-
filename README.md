@@ -4,7 +4,6 @@ An Excel-based greenhouse gas (GHG) emissions inventory developed to practice co
 The project calculates Scope 1, Scope 2, and selected Scope 3 emissions for a fictional company, GreenTech, using activity data, publicly available emissions factors, and documented assumptions.
 
 # Project Preview 
-
 * GHG Emissions Inventory calculations - GHG Inventory summary-1.png , GHG Inventory summary-2.png
 * GHG Dashboard - GHG Dashboard.png
 * GHG Emissions Inventory Visualization - GHG Inventory_Vis-1.png , GHG Inventory_Vis-2.png , GHG Reduction Scenario_Vis-1.png
